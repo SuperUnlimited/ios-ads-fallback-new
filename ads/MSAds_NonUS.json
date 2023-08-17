@@ -1,50 +1,50 @@
 {
-	"admob": {
-		"placements": [{
-			"name": "fullscreen_ad",
-			"units": [{
-				"type": "int",
-				"identifier": "ca-app-pub-3509434118277818/6390607125"
-			}, {
-				"type": "adv_nav",
-				"identifier": "ca-app-pub-3509434118277818/2732063096"
-			}, {
-				"type": "int",
-				"identifier": "ca-app-pub-3509434118277818/5074614858"
-			}, {
-				"type": "adv_nav",
-				"identifier": "ca-app-pub-3509434118277818/7615474672"
-			}, {
-				"type": "int",
-				"identifier": "ca-app-pub-3509434118277818/7719141833"
-			}, {
-				"type": "adv_nav",
-				"identifier": "ca-app-pub-3509434118277818/6282012016"
-			}]
-		}, {
-			"name": "native_banner_ad",
-			"units": [{
-				"type": "adv_nav_banner",
-				"identifier": "ca-app-pub-3509434118277818/2135765988"
-			}, {
-				"type": "adv_nav_banner",
-				"identifier": "ca-app-pub-3509434118277818/9631112626"
-			}, {
-				"type": "adv_nav_banner",
-				"identifier": "ca-app-pub-3509434118277818/4897698683"
-			}]
-		}, {
-			"name": "banner_ad",
-			"units": [{
-				"type": "ban",
-				"identifier": "ca-app-pub-3509434118277818/8643879101"
-			}, {
-				"type": "ban",
-				"identifier": "ca-app-pub-3509434118277818/2270042441"
-			}, {
-				"type": "ban",
-				"identifier": "ca-app-pub-3509434118277818/1912973318"
-			}]
-		}]
-	}
+  "admob": {
+    "placements": [
+      {
+        "name": "fullscreen_ad",
+        "units": [
+          {
+            "type": "int",
+            "identifier": "ca-app-pub-3509434118277818/9716161855"
+          },
+          {
+            "type": "adv_nav",
+            "identifier": "ca-app-pub-3509434118277818/5723578975"
+          }
+        ]
+      },
+      {
+        "name": "native_banner_ad",
+        "units": [
+          {
+            "type": "adv_nav_banner",
+            "identifier": "ca-app-pub-3509434118277818/5723578975"
+          },
+          {
+            "type": "adv_nav_banner",
+            "identifier": "ca-app-pub-3509434118277818/1670219369"
+          },
+          {
+            "type": "adv_nav_banner",
+            "identifier": "ca-app-pub-3940256099942544/3986624511"
+          }
+        ]
+      },
+      {
+        "name": "banner_ad",
+        "units": [
+          {
+            "type": "ban",
+            "identifier": "ca-app-pub-3509434118277818/6301291332"
+          },
+          {
+            "type": "ban",
+            "identifier": "ca-app-pub-3940256099942544/6300978111"
+          }
+        ]
+      }
+    ]
+  }
 }
+
