@@ -5,12 +5,28 @@
         "name": "fullscreen_ad",
         "units": [
           {
-            "type": "adv_nav",
-            "identifier": "ca-app-pub-3509434118277818/7615474672"
+            "type": "int",
+            "identifier": "ca-app-pub-3509434118277818/9716161855"
           },
           {
             "type": "adv_nav",
-            "identifier": "ca-app-pub-3509434118277818/6282012016"
+            "identifier": "ca-app-pub-3509434118277818/5723578975"
+          },
+          {
+            "type": "int",
+            "identifier": "ca-app-pub-3509434118277818/9572573075"
+          },
+          {
+            "type": "adv_nav",
+            "identifier": "ca-app-pub-3509434118277818/1670219369"
+          },
+          {
+            "type": "int",
+            "identifier": "ca-app-pub-3509434118277818/9381001380"
+          },
+          {
+            "type": "adv_nav",
+            "identifier": "ca-app-pub-3509434118277818/9237718190"
           }
         ]
       },
@@ -19,15 +35,15 @@
         "units": [
           {
             "type": "adv_nav_banner",
-            "identifier": "ca-app-pub-3509434118277818/5723578975"
+            "identifier": "ca-app-pub-3509434118277818/2135765988"
           },
           {
             "type": "adv_nav_banner",
-            "identifier": "ca-app-pub-3509434118277818/1670219369"
+            "identifier": "ca-app-pub-3509434118277818/9631112626"
           },
           {
             "type": "adv_nav_banner",
-            "identifier": "ca-app-pub-3940256099942544/3986624511"
+            "identifier": "ca-app-pub-3509434118277818/4897698683"
           }
         ]
       },
@@ -36,11 +52,15 @@
         "units": [
           {
             "type": "ban",
-            "identifier": "ca-app-pub-3509434118277818/6301291332"
+            "identifier": "ca-app-pub-3509434118277818/8643879101"
           },
           {
             "type": "ban",
-            "identifier": "ca-app-pub-3940256099942544/6300978111"
+            "identifier": "ca-app-pub-3509434118277818/2270042441"
+          },
+          {
+            "type": "ban",
+            "identifier": "ca-app-pub-3509434118277818/1912973318"
           }
         ]
       }
