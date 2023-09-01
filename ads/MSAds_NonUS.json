@@ -5,6 +5,7 @@
         "name": "fullscreen_ad",
         "units": [
          "type": "adv_nav",
+		        {
                         "identifier": "ca-app-pub-3509434118277818/5723578975"
 			},
 		        {
