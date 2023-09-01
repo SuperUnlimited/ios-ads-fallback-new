@@ -3,16 +3,18 @@
 		"placements": [{
 			"name": "fullscreen_ad",
 			"units": [{
-				"type": "int",
-				"identifier": "ca-app-pub-3509434118277818/6390607125"
-			}, {
-				"type": "int",
-				"identifier": "ca-app-pub-3509434118277818/5074614858"
-			}, {
-				"type": "int",
-				"identifier": "ca-app-pub-3509434118277818/6335343712"
+                        "type": "adv_nav",
+                        "identifier": "ca-app-pub-3509434118277818/5723578975"
+			},
+				{
+                        "type": "adv_nav",
+                        "identifier": "ca-app-pub-3509434118277818/7615474672"
+			},
+	                {
+                        "type": "adv_nav",
+                        "identifier": "ca-app-pub-3509434118277818/6282012016"
 			}
-			]
+                }]
 		}, {
 			"name": "native_banner_ad",
 			"units": [{
